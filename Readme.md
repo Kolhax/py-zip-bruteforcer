@@ -60,7 +60,7 @@ The author is not responsible for any misuse of this tool or any legal consequen
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is not under any liscense
 
 Feel free to contribute, report issues, or suggest improvements!
 
