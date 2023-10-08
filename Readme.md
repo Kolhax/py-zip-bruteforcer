@@ -32,12 +32,14 @@ Before using py-zip-bruteforcer, make sure you have the following:
 
    - Enter the path to the ZIP file you want to extract.
    - Enter the path to the password list file (text file with one password per line).
+   - Enter the ammount of threads you want to use.
    
    Example:
    
    ```
    Enter the path to the ZIP file: sample.zip
    Enter the path to the password list file: passwords.txt
+   Enter the ammount of threads you want to use: 4
    ```
 
 6. The tool will start trying each password from the list. If a correct password is found, it will extract the contents of the ZIP file to a folder named "out."
